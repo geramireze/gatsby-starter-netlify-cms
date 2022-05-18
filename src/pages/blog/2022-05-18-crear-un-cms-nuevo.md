@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: crear un CMS nuevo
-date: 2022-05-18T22:49:24.638Z
+date: 2022-05-18T22:52:03.171Z
 description: "prueba "
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
